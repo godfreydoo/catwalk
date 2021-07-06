@@ -2,7 +2,9 @@
 # Project Catwalk
 Project Catwalk is a front-end application for a mock e-commerce site. The site contains the below widgets with differing functionalities: product overview, related items and comparisions, and rating and reviews.
 
-The application reads, inserts, and updates data via an API.
+The application reads, inserts, and updates data via an API with near-perfect Lighthouse scores. 
+
+![Image of Lighthouse Score](https://github.com/godfreydoo/catwalk/blob/55cc2d7c06ef6b9c3e32cdc941419f1656af2718/client/src/assets/lighthouse-scores.png)
 
 ## Getting Started
 1. Fork this repository on Github.
